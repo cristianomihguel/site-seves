@@ -1,2 +1,2 @@
 # site-seves
-Um site bem desenvolvido, graças à Deus
+Um site desenvolvido por Cristiano Miguel para promover seus projetos de escrita. 
